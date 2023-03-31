@@ -1,3 +1,3 @@
-# public_library
+# lib
 
 just some stuff encountered.
