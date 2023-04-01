@@ -1,5 +1,5 @@
 # ==========================
-#     written by: raunak
+#     author: aero 7
 # ==========================
 
 # cleanup tool
