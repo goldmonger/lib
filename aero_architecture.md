@@ -1,6 +1,6 @@
 ## abstract architecture for aero-x
 
-___divide and conquer___
+___divide and conquer___ 🚩
 
 #### data source
  - provider
